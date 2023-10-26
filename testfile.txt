@@ -1,0 +1,2 @@
+This is a text for git
+another text adter adding file to staging
